@@ -1,6 +1,6 @@
 # Rafael Ferrari
 
-Design Engineer. Branding, motion, produto e ferramentas com IA.
+**Design Engineer.** Branding, motion, produto e ferramentas com IA.
 
 **Mediacraft.** Sistemas produtivos para marcas como Dotz e Banco do Brasil: plugins de Figma, automações e motion.
 
