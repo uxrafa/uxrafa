@@ -2,7 +2,7 @@
 
 **Design Engineer.** Branding, motion, produto e ferramentas com IA.
 
-**Mediacraft.** Sistemas produtivos para marcas como Dotz e Banco do Brasil: plugins, ferramentar, automações e motion.
+**Mediacraft.** Sistemas produtivos para marcas como Dotz e Banco do Brasil: plugins, ferramentas, automações e motion.
 
 **Grifado.** Mídia independente sobre gente que cria, do tatuador ao ilustrador, do estúdio de bairro à cena independente. Revista, Instagram, YouTube e Spotify.
 
